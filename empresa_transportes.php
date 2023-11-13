@@ -1,6 +1,6 @@
 <?php
-include("../include/conexion.php");
-include("../include/busquedas.php");
+include("include/conexion.php");
+include("include/busquedas.php");
 ?>
 <!DOCTYPE html>
 <html lang="es">
